@@ -1,0 +1,28 @@
+* {
+    font-family: "Uchen", serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    width: 400px;
+}
+input{
+    width: 250px;
+    margin-top: 5px;
+    border: solid 1px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+div{
+    margin-top: 10px;
+}
+div button{
+    cursor: pointer;
+}
